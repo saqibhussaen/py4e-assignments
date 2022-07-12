@@ -8,3 +8,4 @@ except:
     print('Invalid Value')
     quit()
 print(ans)
+Er = input('Not a Error')
